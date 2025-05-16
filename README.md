@@ -37,3 +37,6 @@ This project is completed on Coursera’s cloud environment
 ![Details tab of DAG](https://github.com/Dipapatil/ETL-using-Airflow-and-BashOperator/blob/main/details.png)
 ![run duration option](https://github.com/Dipapatil/ETL-using-Airflow-and-BashOperator/blob/main/run_duration_option.png)
 
+## Kafka real time data pipeline : road traffic data from national hiway toll plaza, as vehical pass through key data- vehical id, type, toll plaza id and timestamp is streamed via kafka.
+[Kafka real time data](https://github.com/Dipapatil/ETL-using-Airflow-and-BashOperator/blob/main/Streaming%20ETL%20Pipeline%20using%20Kafka%20project.docx)
+
