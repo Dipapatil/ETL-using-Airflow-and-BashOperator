@@ -1,7 +1,8 @@
 # ETL-using-Airflow-and-BashOperator
 Analyzed road traffic data from multiple toll plazas across different highways, each managed by distinct toll operators using varied IT systems and file formats. Consolidated heterogeneous data sources into a unified, standardized file for streamlined analysis and reporting.
+This project is completed on Coursera’s cloud environment
 
-## Tools Used: Apache Airflow, Python
+## Tools Used: Apache Airflow, Python, Kafka
 
 
 ##	Extract data from a csv file
