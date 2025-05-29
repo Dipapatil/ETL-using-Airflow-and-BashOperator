@@ -2,7 +2,7 @@
 Analyzed road traffic data from multiple toll plazas across different highways, each managed by distinct toll operators using varied IT systems and file formats. Consolidated heterogeneous data sources into a unified, standardized file for streamlined analysis and reporting.
 This project is completed on Coursera’s cloud environment
 
-## Tools Used: Apache Airflow, Python, Kafka
+## Tools Used: Apache Airflow, Python
 
 
 ##	Extract data from a csv file
@@ -18,7 +18,7 @@ This project is completed on Coursera’s cloud environment
 ## Load the transformed combined data
 ![Load Transformed combined data](https://github.com/Dipapatil/ETL-using-Airflow-and-BashOperator/blob/main/consolidate_data.png)
 
-##	After python script is done, save it.
+##	After python script is done, saved it.
 [Link to ETL project python script](https://github.com/Dipapatil/ETL-using-Airflow-and-BashOperator/blob/main/ETL_toll_data_bash_operator.py)
 ##	Submit a DAG
 * Export AIRFLOW_HOME=/home/project/airflow
